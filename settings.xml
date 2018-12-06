@@ -1,0 +1,10 @@
+<servers>
+  <server>
+    <id>docker-local</id>
+    <username>docker</username>
+    <password>tcuser</password>
+    <configuration>
+      <email>tcuser@example.com</email>
+    </configuration>
+  </server>
+</servers>
